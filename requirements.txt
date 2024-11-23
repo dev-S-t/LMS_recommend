@@ -1,10 +1,17 @@
-fastapi
-uvicorn
-google-generativeai
-sentence-transformers
-faiss-cpu
-numpy
-pandas
-scipy
-pickle-mixin
-python-dotenv
+#fastapi
+# uvicorn
+# google-generativeai
+# sentence-transformers
+# faiss-cpu
+# numpy
+# pandas
+# scipy
+# pickle-mixin
+# python-dotenv
+
+fastapi==0.103.1
+uvicorn==0.23.2
+pandas==2.1.1
+pydantic==1.10.9
+requests==2.31.0
+
